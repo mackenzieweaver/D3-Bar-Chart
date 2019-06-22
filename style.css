@@ -1,0 +1,6 @@
+.bar {
+  display: inline-block;
+  background-color: brown;
+  width: 5px;
+  margin: .5px;
+}
